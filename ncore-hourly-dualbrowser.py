@@ -2,7 +2,7 @@
 
 # ./ncore-hourly-dualbrowser.py "site name" output_filepath browser driver_filepath
 
-# site name = "NCore", "Hurst Road", or "A St." (keep "" so multi-word site names are not used as sys inputs
+# site name = "NCore", "Hurst Road", or "A St." (keep "" so multi-word site names with spaces are not used counted as sys inputs
 # output_filepath = location to send output
 # browser = firefox or chrome (keep lowercase)
 # driver_filepath = location of the webdriver
